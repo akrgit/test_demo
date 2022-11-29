@@ -1,0 +1,2 @@
+Hi I just started learning git
+there is a defference between git and git hub.
